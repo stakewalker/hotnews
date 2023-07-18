@@ -1,1 +1,2 @@
-# hotnews
+# Hotnews
+Coming soon...
