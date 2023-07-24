@@ -1,0 +1,7 @@
+requests
+pyshorteners
+selenium
+pickle
+python-pillow
+moviepy
+textwrap3
