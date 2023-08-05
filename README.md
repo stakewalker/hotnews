@@ -3,7 +3,7 @@
 Hotnews is a dynamic Python toolkit that transforms newsletters into captivating videos with lofi music and generates stunning YouTube thumbnails. It offers automated content extraction, video generation, thumbnail creation and YouTube channel publishing – all in one package. 
 Let's create amazing content with Hotnews! 🌟🚀 #Python #ContentCreation #Automation #LofiMusic #YouTube
 
-## Key Features
+## Key Features 
 
 - 📰 Newsletter Content Extraction: Extract valuable content from newsletters effortlessly.
 - 🎥 Automated Video Generation: Automatically create eye-catching videos with extracted content.
