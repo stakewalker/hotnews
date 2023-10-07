@@ -5,7 +5,7 @@ import requests
 from datetime import datetime
 import pyshorteners
 from random import randint
-from chavs import ccompare_key, adfly_key, steemit_key, telegram_key
+from config import *
 from time import sleep
 import json
 
