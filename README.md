@@ -31,4 +31,4 @@ Contributions are always welcome! If you want to contribute to Hotnews, follow t
 
 ---
 
-This was my very first software project, born out during the COVID lockdown.
+This was my very first software project, born out during the COVID lockdown
