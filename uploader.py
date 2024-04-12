@@ -1,5 +1,5 @@
 
-# Hotnews Uploader 0.3 (01/mar/2021)
+# Original Hotnews Uploader v0.3 (01/mar/2021)
 
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.keys import Keys
@@ -15,23 +15,24 @@ import subprocess
 import requests
 from chavs import *
 
-print('Starting uploader...')
+# Loading uploader...
 ready_news = json.load(open('data/data.json', 'r'))
 
 options = Options()
 options.add_argument("--headless")
 driver = webdriver.Firefox(options=options)
-print('Iniciando o Firefox headless...')
 
+# Starting Firefox headless...
 driver.fullscreen_window()
 def hold():
     sleep(random.randint(3,9))
 # Set tags
 ok_tags = str(ready_news[1])[1:-1].replace("'","")
 pure_tags = ready_news[2]
-# Login e abrir yt_studio
+# Login and open YoutTube Studio
 driver.get('https:\\youtube.com')
-cookies = pickle.load(open("data/youtube.com.pkl", "rb"))
+# Load cookies, instead of logging in
+cookies = pickle.load(open("data/youtube.com.pkl", "rb"))  
 for cookie in cookies:
     if 'expiry' in cookie:
         driver.add_cookie(cookie)
