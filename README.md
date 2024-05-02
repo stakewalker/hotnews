@@ -1,7 +1,9 @@
-# 🌟 Exciting News! Introducing Hotnews: 
+# Introducing Hotnews: 
 ## Your Newsletter-to-Video Python Toolkit! 🚀
 
-Hotnews transforms newsletters into captivating videos with lofi music and stunning YouTube thumbnails, all in one package! Effortlessly extract content, create videos, and publish on your YouTube channel. Let's craft amazing content together! 🎥📰
+Hotnews transforms newsletters into captivating music videos & creative YouTube thumbnails
+
+It extract data via api with requests, generate videos and images using MoviePy and PIL, and publish on a YouTube channel using Selenium and cookies
 
 **Key Features:**
 - 📰 Newsletter Content Extraction
@@ -10,18 +12,8 @@ Hotnews transforms newsletters into captivating videos with lofi music and stunn
 - 🎶 Random Lofi Music Integration
 - 📺 YouTube Channel Publishing
 
-**Get Started:**
-1. Clone the repo: `git clone https://github.com/stakewalker/Hotnews.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Create engaging videos in minutes!
-
-**Contribute:**
-- Fork the repo
-- Make your changes
-- Submit a pull request
-
-Your contribution would mean the world to us! 🙏 Don't forget to star the repo if you find Hotnews helpful. Thank you for being part of our journey! 🌟 #Python #ContentCreation #Automation #LofiMusic #YouTube
-
 ---
 
 This was my very first software project, born out during the 2020 COVID lockdown
+
+Don't forget to star the repo if you find Hotnews interesting 🌟
