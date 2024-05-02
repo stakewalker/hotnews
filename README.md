@@ -3,7 +3,7 @@
 
 Hotnews transforms newsletters into captivating music videos & creative YouTube thumbnails
 
-It extract data via api with requests, generate videos and images using MoviePy and PIL, and publish on a YouTube channel using Selenium and cookies
+It extract data via api with requests, generate videos and images using MoviePy and PIL, and publish on a YouTube channel using Selenium
 
 **Key Features:**
 - 📰 Newsletter Content Extraction
