@@ -1,5 +1,5 @@
-# Introducing Hotnews: 
-## Your Newsletter-to-Video Python Toolkit! 🚀
+# Hotnews: 
+## Newsletter-to-Video Python Toolkit! 🚀
 
 Hotnews transforms newsletters into captivating music videos & creative YouTube thumbnails
 
