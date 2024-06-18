@@ -13,6 +13,7 @@ It extract data via api with requests, generate videos and images using MoviePy 
 - 📺 YouTube Channel Publishing
 
 ---
+---
 
 This was my very first software project, born out during the 2020 COVID lockdown
 
