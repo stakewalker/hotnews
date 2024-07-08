@@ -12,6 +12,7 @@ It extract data via api with requests, generate videos and images using MoviePy 
 - 🎶 Random Lofi Music Integration
 - 📺 YouTube Channel Publishing
 
+
 ---
 ---
 
