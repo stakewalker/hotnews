@@ -1,7 +1,7 @@
 # Hotnews: 
 ## Newsletter-to-Video Python Toolkit! 🚀
 
-Hotnews transforms newsletters into captivating music videos & creative YouTube thumbnails
+Hotnews transforms newsletters into captivating YouTube music videos with creative thumbnails
 
 It requests data via api, generate videos and images using MoviePy and PIL, and publish on a YouTube channel using Selenium
 
