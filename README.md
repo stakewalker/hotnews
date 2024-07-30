@@ -12,7 +12,6 @@ It requests data via api, generate videos and images using MoviePy and PIL, and 
 - 🎶 Random Lofi Music Integration
 - 📺 YouTube Channel Publishing
 
-
 ---
 ---
 
