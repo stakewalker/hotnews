@@ -14,6 +14,6 @@ It requests data via api, generate videos and images using MoviePy and PIL, and 
 
 ---
 
-This was my very first software project, born out during the 2020 COVID lockdown
+It was my very first software project, born out during the 2020 COVID lockdown
 
 Don't forget to star the repo if you find Hotnews interesting 🌟
