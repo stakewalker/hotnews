@@ -18,4 +18,4 @@ It was my very first software project, born out during the 2020 COVID lockdown
 
 ---
 
-Don't forget to star the repo if you find Hotnews interesting 🌟
+Star the repo if you find it interesting 🌟
